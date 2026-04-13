@@ -82,7 +82,7 @@
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="896.8000000000001,1159.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="867.2,1159.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -109,7 +109,7 @@
         <uasc:BuildCollection.NextItems>
           <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
             <InArgument x:TypeArguments="x:String">Chicago</InArgument>
-            <InArgument x:TypeArguments="x:String">Tennessee</InArgument>
+            <InArgument x:TypeArguments="x:String">Otiguakan</InArgument>
             <InArgument x:TypeArguments="x:String">Baltimore</InArgument>
           </scg:List>
         </uasc:BuildCollection.NextItems>
